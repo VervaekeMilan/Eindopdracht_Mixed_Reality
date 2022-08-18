@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: image_lib
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5460228686585399843
+  m_GuidHigh: 5319792839655361470
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4841288855692144543
+      m_GuidHigh: 14426669166759842701
+    m_SerializedTextureGuid:
+      m_GuidLow: 5374113765481344756
+      m_GuidHigh: 7982456826404956057
+    m_Size: {x: 0.16, y: 0.16}
+    m_SpecifySize: 1
+    m_Name: one
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4899779789040783060
+      m_GuidHigh: 16778545059292063401
+    m_SerializedTextureGuid:
+      m_GuidLow: 12147566285225731419
+      m_GuidHigh: 3287302296026803098
+    m_Size: {x: 0.16, y: 0.16}
+    m_SpecifySize: 1
+    m_Name: lift
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4708908462827248372
+      m_GuidHigh: 16584909762547506589
+    m_SerializedTextureGuid:
+      m_GuidLow: 15696312015704825146
+      m_GuidHigh: 10966585030456225242
+    m_Size: {x: 0.17, y: 0.22661}
+    m_SpecifySize: 1
+    m_Name: mario
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5457402474297595044
+      m_GuidHigh: 1671692081319367850
+    m_SerializedTextureGuid:
+      m_GuidLow: 9116518915993359718
+      m_GuidHigh: 6088786242593353241
+    m_Size: {x: 0.11, y: 0.11}
+    m_SpecifySize: 1
+    m_Name: rolluik
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4936823197433423061
+      m_GuidHigh: 12100771130554415016
+    m_SerializedTextureGuid:
+      m_GuidLow: 4045433816209151913
+      m_GuidHigh: 10295801260419447515
+    m_Size: {x: 0.09, y: 0.09}
+    m_SpecifySize: 1
+    m_Name: remote
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4874167345589217675
+      m_GuidHigh: 8447383732375496113
+    m_SerializedTextureGuid:
+      m_GuidLow: 2315986748916349716
+      m_GuidHigh: 12680123555106896571
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: bank
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4643892457399186327
+      m_GuidHigh: 17480033177078506159
+    m_SerializedTextureGuid:
+      m_GuidLow: 2221680433722342868
+      m_GuidHigh: 12669272822156414489
+    m_Size: {x: 0.115, y: 0.11527711}
+    m_SpecifySize: 0
+    m_Name: headset
+    m_Texture: {fileID: 0}
